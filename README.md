@@ -1,9 +1,21 @@
 <h1 align="center">Hi 👋, I'm Menna Allah Sabry</h1>
+
+🔭 I’m currently learning Machine learning and Neural Networks 
+
+📝 I have a strong interest in Artificial Intelligence and public relations 
+
+🌱 I’m currently working on many personal projects
+
+🚩I also worked as Public relations in differnt places 
+
+🌟 Main languages: Python
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mennaallahsabry&label=Profile%20views&color=0e75b6&style=flat" alt="mennaallahsabry" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+m.s.elshahaat@xed.aucegypt.edu
 <p align="left">
 </p>
 
@@ -15,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mennaallahsabry&show_icons=true&locale=en" alt="mennaallahsabry" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mennaallahsabry&" alt="mennaallahsabry" /></p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Always+learning+new+things+)](https://git.io/typing-svg)
