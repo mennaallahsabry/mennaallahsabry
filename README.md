@@ -10,6 +10,11 @@
 
 🌟 Main languages: Python
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mennaallahsabry&theme=solarized_dark)
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mennaallahsabry&label=Profile%20views&color=0e75b6&style=flat" alt="mennaallahsabry" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
