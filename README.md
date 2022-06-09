@@ -15,4 +15,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mennaallahsabry&show_icons=true&locale=en" alt="mennaallahsabry" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mennaallahsabry&" alt="mennaallahsabry" /></p>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Always+learning+new+things+)](https://git.io/typing-svg)
