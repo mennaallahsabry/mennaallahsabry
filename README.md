@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Menna Allah Sabry</h1>
 
-🔭 I’m currently learning Machine learning and Neural Networks 
+🔭 I’m currently learning Machine learning, Computer vision and Natural language programming(NLP)
 
 📝 I have a strong interest in Artificial Intelligence and public relations 
 
 🌱 I’m currently working on many personal projects
 
-🚩I also worked as Public relations in differnt places 
+🚩I also worked as Computer vision  in differnt places 
 
 🌟 Main languages: Python
 
